@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=200&section=header&text=Mark%20Jerald%20Esteves&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20IT%20Student&descAlignY=55&fontColor=ffffff)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6B5BF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Development+Specialist;4th+Year+Information+Technology+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6B5BF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Development;4th+Year+Information+Technology+Student)](https://git.io/typing-svg)
 
   ## 🎓 About Me
   
@@ -99,8 +99,6 @@
   
   ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jraldskie&theme=tokyonight&column=7&no-frame=true&no-bg=true)
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=100&section=footer)
 </div>
