@@ -1,43 +1,60 @@
 <div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=200&section=header&text=Mark%20Jerald%20Esteves&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20IT%20Student&descAlignY=55&fontColor=ffffff)
 
-# Hello! I'm Mark Jerald Esteves 👋
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6B5BF7&center=true&vCenter=true&random=false&width=600&lines=Frontend+Development+Specialist;4th+Year+Information+Technology+Student)](https://git.io/typing-svg)
 
-## 💫 About Me
-Full Stack Developer passionate about crafting beautiful, functional web and mobile experiences. I specialize in the MERN stack and enjoy bringing creative ideas to life through code.
+  ## 🎓 About Me
+  
+  <p>
+  I'm a <b>4th Year Information Technology Student</b> at <b>National University – MOA</b>,
+  specializing in <b>Mobile and Web Applications</b> with a focus on <b>Frontend Development</b>.
+  Passionate about creating intuitive user interfaces and exceptional user experiences through clean,
+  efficient code and modern design principles.
+  </p>
 
-## 🛠️ Technical Skills
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ## 📫 Connect With Me
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jraldskie/)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCxxx](https://www.youtube.com/@raldskie2323))
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@raldskieofficial)
 
-### Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+  ## 💻 Technical Expertise
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ### Languages & Markup
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Design & Creativity
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-00C8FF?style=for-the-badge&logo=capcut&logoColor=white)
+  ### Frameworks & Libraries
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Productivity
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+  ### Database
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🤝 Soft Skills
+  ### Design & Creativity
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+  ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
-<table>
+  ### Productivity
+  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  ## 🤝 Soft Skills
+
+  <table align="center">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/fluency/64/000000/handshake.png" width="64" height="64"/>
@@ -47,7 +64,10 @@ Full Stack Developer passionate about crafting beautiful, functional web and mob
       <img src="https://img.icons8.com/color/64/000000/conference-call.png" width="64" height="64"/>
       <br />Team Collaborator
     </td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/clock--v1.png"/><br />Time Management</td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/clock--v1.png"/>
+      <br />Time Management
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -63,18 +83,43 @@ Full Stack Developer passionate about crafting beautiful, functional web and mob
       <br />Paper and File<br />Organization
     </td>
   </tr>
-</table>
+  </table>
 
-## 📈 Contribution Activity
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=react" />
+  ## 📊 GitHub Analytics
+  
+  <p align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jraldskie&show_icons=true&theme=react&hide_border=true&bg_color=00000000&ring_color=6B5BF7" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jraldskie&theme=react&hide_border=true&background=00000000&ring=6B5BF7" />
+  </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jraldskie&theme=nord&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=transparent" width="100%" />
 
-## 📫 Connect With Me
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jraldskie&theme=react-dark&hide_border=true&bg_color=00000000&color=6B5BF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jraldskie&theme=tokyonight&column=7&no-frame=true&no-bg=true)
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://www.linkedin.com/in/jeraldesteves23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://www.facebook.com/Jerald.Esteves2323/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/jraldskie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+ ## 📹 YouTube Videos
 
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://www.youtube.com/watch?v=nHJiEOHE4qc" target="_blank">
+          <img src="https://img.youtube.com/vi/nHJiEOHE4qc/maxresdefault.jpg" width="100%" alt="YouTube Thumbnail">
+          <h3 align="center">Tutorial How To BUG ULT YASUO 2019 (League of Legends)</h3>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://www.youtube.com/watch?v=vEMXMFRlM4s" target="_blank">
+          <img src="https://img.youtube.com/vi/vEMXMFRlM4s/maxresdefault.jpg" width="100%" alt="YouTube Thumbnail">
+          <h3 align="center">Yasuo Montage</h3>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=100&section=footer)
 </div>
