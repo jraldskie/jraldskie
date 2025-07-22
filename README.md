@@ -20,7 +20,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jraldskie/)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/channel/UCxxx](https://www.youtube.com/@raldskie2323))
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@raldskieofficial)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -102,24 +101,6 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- ## 📹 YouTube Videos
-
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://www.youtube.com/watch?v=nHJiEOHE4qc" target="_blank">
-          <img src="https://img.youtube.com/vi/nHJiEOHE4qc/maxresdefault.jpg" width="100%" alt="YouTube Thumbnail">
-          <h3 align="center">Tutorial How To BUG ULT YASUO 2019 (League of Legends)</h3>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://www.youtube.com/watch?v=vEMXMFRlM4s" target="_blank">
-          <img src="https://img.youtube.com/vi/vEMXMFRlM4s/maxresdefault.jpg" width="100%" alt="YouTube Thumbnail">
-          <h3 align="center">Yasuo Montage</h3>
-        </a>
-      </td>
-    </tr>
-  </table>
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=100&section=footer)
 </div>
