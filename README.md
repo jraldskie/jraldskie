@@ -94,7 +94,7 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  ## 📊 GitHub Analytics Test
+  ## 📊 GitHub Analytics 
   
   <p align="center">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jraldskie&show_icons=true&theme=react&hide_border=true&bg_color=00000000&ring_color=6B5BF7" />
