@@ -97,13 +97,13 @@
 ## 📊 GitHub Analytics 
   
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jraldskie&show_icons=true&theme=react&hide_border=true&bg_color=00000000&ring_color=6B5BF7&include_all_commits=true&count_private=true" />
+ <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jraldskie&show_icons=true&theme=react&hide_border=true&bg_color=00000000&ring_color=6B5BF7&include_all_commits=true&count_private=true&show_owner=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jraldskie&theme=react&hide_border=true&background=00000000&ring=6B5BF7&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=transparent" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=transparent&hide_border=true" width="100%" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jraldskie&theme=react-dark&hide_border=true&bg_color=00000000&color=6B5BF7&area=true&custom_title=Contribution%20Graph%20(Feb%2013%20-%20Jul%2027))](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jraldskie&theme=react-dark&hide_border=true&bg_color=00000000&color=6B5BF7&area=true&custom_title=Contribution%20Graph%20)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jraldskie&theme=tokyonight&column=7&no-frame=true&no-bg=true)
 
