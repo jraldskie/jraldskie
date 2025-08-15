@@ -4,7 +4,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6B5BF7&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Frontend+Developer;4th+Year+Information+Technology+Student)](https://git.io/typing-svg)
 
-  ## 🎓 About Me 
+  ## 🎓 About Me S
   
   <p>
   I'm a <b>4th Year Information Technology Student</b> at <b>National University – MOA</b>,
@@ -15,7 +15,7 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-   ## 📫 Connect With Me
+   ## 📫 Connect With Me 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
