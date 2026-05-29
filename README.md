@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;4th+Year+Information+Technology+Student" />
 
+<p align="center">
+  <img src="https://github.com/codedex-io/.github/assets/65576812/c52c79df-d10d-412e-b0ef-ec0b969d2a5d" width="100px" />
+</p>
 ---
 
 ```
