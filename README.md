@@ -1,116 +1,97 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=200&section=header&text=Mark%20Jerald%20Esteves&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Frontend%20Developer%20|%20IT%20Student&descAlignY=55&fontColor=ffffff)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6B5BF7&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Frontend+Developer;4th+Year+Information+Technology+Student)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0,0,0,100&height=3&section=header)
 
-  ## 🎓 About Me 
-  
-  <p>
-  I'm a <b>4th Year Information Technology Student</b> at <b>National University – MOA</b>,
-  specializing in <b>Mobile and Web Applications</b> with a focus on <b>Frontend Development</b>.
-  Passionate about creating intuitive user interfaces and exceptional user experiences through clean,
-  efficient code and modern design principles.
-  </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0,8,8,100&customColorList=0&height=220&section=header&text=MARK%20JERALD%20ESTEVES&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Frontend%20Developer%20%7C%20IT%20Student&descAlignY=60&fontColor=00FF88)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;4th+Year+Information+Technology+Student" />
 
-   ## 📫 Connect With Me
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jraldskie/)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@raldskieofficial)
+---
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
- ## 💻 Technical Skills
+```
+█▀▄▀█ █▀▀ ▄▄ █ █▄░█ █▀▀ █▀█   █▀▄ █▀▀ █░█
+█░▀░█ ██▄ ░░ █ █░▀█ █▀░ █▄█   █▄▀ ██▄ ▀▄▀
+```
 
-### Full Stack Development
-![MERN](https://img.shields.io/badge/MERN_Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white)
+> **4th Year Information Technology Student** at **National University – MOA**  
+> Specializing in **Mobile and Web Applications** · Focused on **Frontend Development**  
+> Passionate about crafting intuitive UIs and exceptional user experiences.
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### Frontend Development
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## ◼ CONNECT
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jraldskie/)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@raldskieofficial)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+## ◼ TECHNICAL ARSENAL
 
-### IT Support Skills
-![Hardware Troubleshooting](https://img.shields.io/badge/Hardware_&_Software_Troubleshooting-555555?style=for-the-badge)
-![Remote Support](https://img.shields.io/badge/Remote_Support-0078D7?style=for-the-badge)
-![Ticketing Systems](https://img.shields.io/badge/Ticketing_Systems-0052CC?style=for-the-badge)
-![Incident Management](https://img.shields.io/badge/Incident_&_Service_Request_Management-6A1B9A?style=for-the-badge)
+### ⬡ FULL STACK
+![MERN](https://img.shields.io/badge/MERN_Stack-00FF88?style=flat-square&logo=mongodb&logoColor=000000)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ⬡ LANGUAGES
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-  ## 🤝 Social Skills
+### ⬡ FRONTEND
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/64/000000/handshake.png" width="64" height="64"/>
-      <br />Respectfulness
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/000000/conference-call.png" width="64" height="64"/>
-      <br />Team Collaborator
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/clock--v1.png"/>
-      <br />Time Management
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/000000/change.png" width="64" height="64"/>
-      <br />Adaptability
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/000000/prize.png" width="64" height="64"/>
-      <br />Appreciation
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/000000/folder-tree.png" width="64" height="64"/>
-      <br />Paper and File<br />Organization
-    </td>
-  </tr>
-  </table>
+### ⬡ BACKEND
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### ⬡ DATABASES
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-## 📊 GitHub Analytics 
-  
+### ⬡ TOOLS & TECH
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=000000)
+![GameMaker](https://img.shields.io/badge/GameMaker-FFFFFF?style=flat-square&logo=gamemaker&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-010101?style=flat-square&logo=capcut&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+### ⬡ IT SUPPORT
+![Hardware](https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-111111?style=flat-square)
+![Remote](https://img.shields.io/badge/Remote_Support-0078D7?style=flat-square)
+![Ticketing](https://img.shields.io/badge/Ticketing_Systems-0052CC?style=flat-square)
+![Incident](https://img.shields.io/badge/Incident_%26_Service_Request_Management-4A0080?style=flat-square)
+
+---
+
+## ◼ SOCIAL SKILLS
+
+| | | |
+|:---:|:---:|:---:|
+| 🤝 **Respectfulness** | 🧑‍🤝‍🧑 **Team Collaborator** | ⏱ **Time Management** |
+| 🔄 **Adaptability** | 🏆 **Appreciation** | 🗂 **Paper & File Organization** |
+
+---
+
+## ◼ GITHUB STATS
+
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jraldskie&theme=react&hide_border=true&background=00000000&ring=6B5BF7&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=jraldskie&theme=dark&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=AAAAAA&dates=555555&stroke=00FF88" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=transparent&hide_border=true" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=github_dark&hide_border=true" width="100%" />
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=100&section=footer)
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,8,8,100&customColorList=0&height=120&section=footer)
+
 </div>
