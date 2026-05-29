@@ -113,9 +113,5 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jraldskie&theme=transparent&hide_border=true" width="100%" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jraldskie&theme=react-dark&hide_border=true&bg_color=00000000&color=6B5BF7&area=true&custom_title=Contribution%20Graph%20)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jraldskie&theme=tokyonight&column=7&no-frame=true&no-bg=true)
-
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,16,20&height=100&section=footer)
 </div>
