@@ -68,7 +68,7 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
 ### IT SUPPORT
-![Hardware](https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-111111?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-010101?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote_Support-0078D7?style=flat-square)
 ![Ticketing](https://img.shields.io/badge/Ticketing_Systems-0052CC?style=flat-square)
 ![Incident](https://img.shields.io/badge/Incident_%26_Service_Request_Management-4A0080?style=flat-square)
