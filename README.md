@@ -107,7 +107,6 @@
 ## 📊 GitHub Analytics 
   
 <p align="center">
- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jraldskie&show_icons=true&theme=react&hide_border=true&bg_color=00000000&ring_color=6B5BF7&include_all_commits=true&count_private=true&show_owner=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jraldskie&theme=react&hide_border=true&background=00000000&ring=6B5BF7&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
