@@ -21,7 +21,7 @@
 
 ---
 
-## CONNECT WITH ME
+## CONNECT WITH ME 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeraldesteves23/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Jerald.Esteves2323/)
