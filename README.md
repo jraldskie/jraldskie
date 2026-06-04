@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0,8,8,100&customColorList=0&height=220&section=header&text=MARK%20JERALD%20ESTEVES&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Frontend%20Developer%20%7C%20IT%20Student&descAlignY=60&fontColor=00FF88)
 
