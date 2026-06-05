@@ -1,5 +1,5 @@
 <div align="center"> 
-
+l
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0,8,8,100&customColorList=0&height=220&section=header&text=MARK%20JERALD%20ESTEVES&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Frontend%20Developer%20%7C%20IT%20Student&descAlignY=60&fontColor=00FF88)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Aspiring+Frontend+Developer;4th+Year+Information+Technology+Student" />
