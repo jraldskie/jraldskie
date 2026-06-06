@@ -69,7 +69,7 @@
 ![Software](https://img.shields.io/badge/Software_%26_Application_Troubleshooting-010101?style=flat-square)
 ![Network](https://img.shields.io/badge/Network_Troubleshooting-0052CC?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote_Support-0078D7?style=flat-square)
-![Ticketing](https://img.shields.io/badge/Ticketing_Systems-0052CC?style=flat-square)
+![Ticketing](https://img.shields.io/badge/Ticket_Management_Systems-0052CC?style=flat-square)
 ![Incident](https://img.shields.io/badge/Incident_%26_Service_Request_Management-4A0080?style=flat-square)
 ![QA](https://img.shields.io/badge/System_Testing_%26_QA-228B22?style=flat-square)
 ![Docs](https://img.shields.io/badge/Documentation-6A0DAD?style=flat-square)
