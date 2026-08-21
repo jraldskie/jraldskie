@@ -62,9 +62,9 @@ MERN stack, JavaScript, and modern web application development.
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-228B22?style=flat-square)
 ![User Acceptance Testing](https://img.shields.io/badge/User_Acceptance_Testing-228B22?style=flat-square)
 ![Ticket Management](https://img.shields.io/badge/Ticket_Management-0052CC?style=flat-square)
-![Remote Support](https://img.shields.io/badge/Remote_Support-0078D7?style=flat-square)
+![Remote Support](https://img.shields.io/badge/Remote_Support-0052CC?style=flat-square)
 ![Network Troubleshooting](https://img.shields.io/badge/Network_Troubleshooting-0052CC?style=flat-square)
-![Software Installation & Troubleshooting](https://img.shields.io/badge/Software_Installation_%26_Troubleshooting-5E35B1?style=flat-square)
+![Software Installation & Troubleshooting](https://img.shields.io/badge/Software_Installation_%26_Troubleshooting-0052CC?style=flat-square)
 
 ---
 
