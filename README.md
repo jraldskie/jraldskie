@@ -16,8 +16,8 @@
 ```
 
 > **Magna Cum Laude Information Technology Graduate** specializing in **Mobile and Web Application Development**
-> Internship experience in **IT Support, Full-Stack Development, UI/UX Design, and QA Testing**
-> Skilled in the **MERN stack, JavaScript, and modern web application development**, with a focus on building reliable applications and intuitive user experiences.
+> Internship experience in **Quality Assurance, IT Support, Full-Stack Development, and UI/UX Design**
+> Skilled in **Manual Testing, Functional Testing, Integration Testing, and User Acceptance Testing**, with a focus on software quality, troubleshooting, and reliable applications.
 
 ---
  
